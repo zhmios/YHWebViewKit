@@ -1,0 +1,6 @@
+framework module YHWebViewKit {
+  umbrella header "YHWebViewKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

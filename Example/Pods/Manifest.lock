@@ -1,0 +1,16 @@
+PODS:
+  - YHWebViewKit (0.1.0)
+
+DEPENDENCIES:
+  - YHWebViewKit (from `../`)
+
+EXTERNAL SOURCES:
+  YHWebViewKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YHWebViewKit: d35e6b803dc625848374e2752f4cf6b51b663203
+
+PODFILE CHECKSUM: f2da3197dafcac31300dc2e2119f46f17426d576
+
+COCOAPODS: 1.15.2

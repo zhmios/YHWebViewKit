@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '13.0'
+
+target 'YHWebViewKit_Example' do
+  pod 'YHWebViewKit', :path => '../'
+
+  target 'YHWebViewKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
